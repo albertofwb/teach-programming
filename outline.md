@@ -54,6 +54,7 @@
 
 ## 第四节、远程执行任务
 1. 预备概念
-	- HTML
+	- HTML 超文本标记语言
 	- HTTP API (什么是 API)
-	- 
+	- HTTP GET 与 POST
+	- Flask 框架介绍
